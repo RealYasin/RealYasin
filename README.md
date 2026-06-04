@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mir Yasin Ali Aka Miki</h1>
 <h3 align="center">A passionate Techie from India</h3>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Science with AI & ML**
 
 - 💻 Former **Redmi Note 7 Pro** maintainer For Evolution X
 
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RealYasin&show_icons=true&locale=en&layout=compact" alt="RealYasin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RealYasin&show_icons=true&locale=en" alt="RealYasin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RealYasin&" alt="RealYasin" /></p>
