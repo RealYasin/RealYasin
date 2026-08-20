@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mir Yasin Ali Aka Miki</h1>
 <h3 align="center">A passionate Techie from India</h3>
 
-- 🌱 I’m currently learning **Data Science with AI & ML**
+- 🌱 I’m currently working as an **Artist** at **DNEG** && I'm also a **Data Scientist**
 
 - 💻 Former **Redmi Note 7 Pro** maintainer For Evolution X
 
